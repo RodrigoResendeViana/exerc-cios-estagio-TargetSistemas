@@ -1,0 +1,6 @@
+1 - Eu acionaria 2 interruptores, ativando então 2 lâmpadas
+2 - Iria até a sala para descobrir quais lâmpadas acenderam
+3 - Deixaria 1 interruptor como está, desacionaria 1, e acionaria o outro antes apagado
+4 - Iria até a sala para ver qual lâmpada permaneceu acesa e qual apagou para a nova acender
+
+Podemos assim definir qual lâmpada está ligada a qual interruptor
